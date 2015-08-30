@@ -14,6 +14,11 @@ __pycache__/
 # C extensions
 *.so
 
+# shelve files
+*.dat
+*.dir
+*.bak
+
 # Distribution / packaging
 .Python
 env/
