@@ -3,4 +3,4 @@ Exercises from Learning Python
 
 
 ####Master branch build status: 
-![](https://travis-ci.org/skellykiernan/pylear .svg?branch=master)
+![](https://travis-ci.org/skellykiernan/pylearn.svg?branch=master)
